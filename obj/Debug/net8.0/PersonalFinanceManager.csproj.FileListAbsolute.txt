@@ -1,0 +1,14 @@
+C:\Users\melis\OneDrive\Masaüstü\Personal Finance Manager\PersonalFinanceManager\bin\Debug\net8.0\PersonalFinanceManager.exe
+C:\Users\melis\OneDrive\Masaüstü\Personal Finance Manager\PersonalFinanceManager\bin\Debug\net8.0\PersonalFinanceManager.deps.json
+C:\Users\melis\OneDrive\Masaüstü\Personal Finance Manager\PersonalFinanceManager\bin\Debug\net8.0\PersonalFinanceManager.runtimeconfig.json
+C:\Users\melis\OneDrive\Masaüstü\Personal Finance Manager\PersonalFinanceManager\bin\Debug\net8.0\PersonalFinanceManager.dll
+C:\Users\melis\OneDrive\Masaüstü\Personal Finance Manager\PersonalFinanceManager\bin\Debug\net8.0\PersonalFinanceManager.pdb
+C:\Users\melis\OneDrive\Masaüstü\Personal Finance Manager\PersonalFinanceManager\obj\Debug\net8.0\PersonalFinanceManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\melis\OneDrive\Masaüstü\Personal Finance Manager\PersonalFinanceManager\obj\Debug\net8.0\PersonalFinanceManager.AssemblyInfoInputs.cache
+C:\Users\melis\OneDrive\Masaüstü\Personal Finance Manager\PersonalFinanceManager\obj\Debug\net8.0\PersonalFinanceManager.AssemblyInfo.cs
+C:\Users\melis\OneDrive\Masaüstü\Personal Finance Manager\PersonalFinanceManager\obj\Debug\net8.0\PersonalFinanceManager.csproj.CoreCompileInputs.cache
+C:\Users\melis\OneDrive\Masaüstü\Personal Finance Manager\PersonalFinanceManager\obj\Debug\net8.0\PersonalFinanceManager.dll
+C:\Users\melis\OneDrive\Masaüstü\Personal Finance Manager\PersonalFinanceManager\obj\Debug\net8.0\refint\PersonalFinanceManager.dll
+C:\Users\melis\OneDrive\Masaüstü\Personal Finance Manager\PersonalFinanceManager\obj\Debug\net8.0\PersonalFinanceManager.pdb
+C:\Users\melis\OneDrive\Masaüstü\Personal Finance Manager\PersonalFinanceManager\obj\Debug\net8.0\PersonalFinanceManager.genruntimeconfig.cache
+C:\Users\melis\OneDrive\Masaüstü\Personal Finance Manager\PersonalFinanceManager\obj\Debug\net8.0\ref\PersonalFinanceManager.dll

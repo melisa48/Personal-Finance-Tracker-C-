@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PersonalFinanceManager/1.0.0": {
+        "runtime": {
+          "PersonalFinanceManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PersonalFinanceManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
